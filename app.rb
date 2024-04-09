@@ -7,9 +7,9 @@ get("/") do
 
   <ul>
 
-  <li><a href=\"/rock\">Play rock</a></li>
-  <li><a href=\"/paper\">Play paper</a></li>
-  <li><a href=\"/scissors\">Play scissors</a></li>
+  <li><a href=\"/rock\">Play Rock</a></li>
+  <li><a href=\"/paper\">Play Paper</a></li>
+  <li><a href=\"/scissors\">Play Scissors</a></li>
 
 </ul>
 
